@@ -1,8 +1,9 @@
 # Implementação do Kernel FreeRTOS baseado em POSIX
-
+GABRIELY MOURA ALTENHOFEN-580034
 A aplicação implementa a manipulação de tarefas baseadas no Kernel do FreeRTOS baseado em POSIX para a introdução dos alunos da disciplina de Sistemas Embarcados da Universidade Federal do Ceará (UFC).
 
 ### 1. Incluir o path do FreeRTOS na distro Linux (Ubuntu 22.04 LTS)
+git clone https://github.com/jstoquica/freertos-posix-tasks
 
 `$ export FREERTOS_PATH=~/Documents/FreeRTOSv202212.01`
 
